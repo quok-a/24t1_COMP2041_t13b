@@ -1,0 +1,14 @@
+    Alias: cs2041.23T2.tutors
+Description: Maling List For COMP(2041|9044) 2023 T2 Tutors
+    Flags: personal, public, unprivileged, members_can_post, closed
+Addresses:
+            andrewt
+            z9300162
+            dylanb
+            z5115658
+            z5316004
+            z5363586
+            z5360319
+            z3540752
+    Owners: cs2041
+    Senders: @COMP2041_Lecturer, @COMP2041_Supervisor

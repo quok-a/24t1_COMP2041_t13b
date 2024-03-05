@@ -1,0 +1,18 @@
+    User Name : z5555555              Aliases :
+            Uid : 25068                     Gid : 25068
+        Expires : 19Dec 2023
+
+        Groups :
+Group classes :
+    User classes : 3978_Student, COMP1521t1_Student[10may2022]
+                : COMP1531t1_Student[10may2022], COMP2041t2_Student[26sep2022]
+                : COMP2121t2_Student[26sep2022], COMP2511t1_Student[26sep2022]
+                : COMP1511t1_Tutor[10may2022], COMP2041t2_Tutor[26sep2022]
+    Misc classes :
+
+            Name : Mr Doe, John (John Doe)
+        Position : Casual Academic (Sch: Computer Science & Eng)
+    UNSW Number : 5555555
+    UNSW Mail : z5555555@unsw.edu.au
+    UNSW Home : //INFPWFS219.ad.unsw.edu.au/Student038$/z5555555
+        CSE Home : /import/kamen/3/z5555555
