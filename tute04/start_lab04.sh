@@ -1,6 +1,6 @@
 #! /bin/dash
 
-cd ~/labs/04
+# cd ~/labs/04
 
 ex1=jpg2png
 ex2=email_image
